@@ -1,4 +1,4 @@
 # Create a function called main.
-def main() :
+def main():
 # Return the value float type.
-    return 3,177
+    return 3.17
